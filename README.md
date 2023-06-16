@@ -18,3 +18,7 @@ MicroPython on esp32  use IR
 # 发送信号
 # ir_helper.send_cmd('on')
 ```
+
+## Acknowledgements
+We would like to thank the following projects for their contributions to this project:
+- [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver):micropython_espX_IR_Transceiver
