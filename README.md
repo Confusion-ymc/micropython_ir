@@ -1,8 +1,9 @@
 # micropython_ir
 [![MicroPython](https://img.shields.io/badge/MicroPython-v1.20.0-blue.svg)](https://micropython.org/)
+
 MicroPython on esp32  use IR
 
-## 使用方法
+## Usage
 - 1.板子刷好MicroPython
 - 2.连接好红外传感器 注意区 发射器和接收器的 针脚
 - 2.上传ir.py
